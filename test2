@@ -1,103 +1,201 @@
 #EXTM3U
-#EXTINF:-1,24 Kitchen
-https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
-#EXTINF:-1,AMC
-https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-#EXTINF:-1,BG Music
-https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
-#EXTINF:-1,BOX TV
-https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
-#EXTINF:-1,BTK
-http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
-#EXTINF:-1,BTV Cinema
-https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
-#EXTINF:-1,BTV Comedy
-https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
-#EXTINF:-1,Balkanika Music TV
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1,Bn Music
-https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
-#EXTINF:-1,Bulgaria On Air
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1,Bulgaria On Air
-http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
-#EXTINF:-1,Bulgaria On Air
-http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1,Bulgaria On Air
-https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
-#EXTINF:-1,CITY TV
-https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
-#EXTINF:-1,DIEMA
-https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
-#EXTINF:-1,DM SAT
-https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
-#EXTINF:-1,Discovery
-https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u8
-#EXTINF:-1,EKIDS
-https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
-#EXTINF:-1,ETA
-https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
-#EXTINF:-1,Eurosport 1
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1,Eurosport 2
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1,FEN TV
-https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
-#EXTINF:-1,FOX
-https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
-#EXTINF:-1,FOX Crime
-https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-#EXTINF:-1,FOX Life
-https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
-#EXTINF:-1,Fishing & Hunting Channel
-https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8
-#EXTINF:-1,History
-https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
-#EXTINF:-1,KINO NOVA
-https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
-#EXTINF:-1,NG WILD
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1,National Geographic
-https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
-#EXTINF:-1,Nick Jr.
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1,RETRO rtm
-rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
-#EXTINF:-1,RTL
-https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
-#EXTINF:-1,Ring BG
-https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
-#EXTINF:-1,THE Voice
-https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
-#EXTINF:-1,TLC
-https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
-#EXTINF:-1,This is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1,This is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/chunklist_w1878567751.m3u8
-#EXTINF:-1,This is Bulgaria
-http://bit.ly/2CvoeKz
-#EXTINF:-1,Travel
-https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1,Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1,КАНАЛ 3
-https://cdn1.mobiletv.bg/T3/kanal3/kanal3_794613_850k.m3u8
-#EXTINF:-1,Канал 4
-https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
-#EXTINF:-1,Первый канал
-https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:-1,Планета
-https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
-#EXTINF:-1,СКАТ
-https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
-#EXTINF:-1,ТВ Европа
-https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
-#EXTINF:-1,Телевизия Враца
-https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
-#EXTINF:-1,Фолклор ТВ
-https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
-#EXTINF:-1,ВАНьО
-https://btvplus.bg/live#livestream_player
-#EXTINF:-1,ВАНьО2
-http://iptv-bg.com/nova-tv-online/
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24 Kitchen
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/653?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24 Kitchen BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/6983?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24 Kitchen FHD
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13163?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24 Kitchen FHD
+http://linkme.team:80/js/js/299199?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24 Kitchen HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2171?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24KITCHEN
+http://etya-plus.com:8080/ertan07/ertan0707/4058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",7/8 TV HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/78602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",ACTION PLUS HD
+http://etya-plus.com:8080/ertan07/ertan0707/4057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AMC
+http://etya-plus.com:8080/ertan07/ertan0707/4056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AMC
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/674?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AMC BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7054?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AMC HD
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13170?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://etya-plus.com:8080/ertan07/ertan0707/4055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN
+http://etya-plus.com:8080/ertan07/ertan0707/3997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN Black BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/80943?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN FHD
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/675?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN FHD
+http://linkme.team:80/js/js/299210?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7051?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Action Plus HD
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/676?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Action Plus HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2179?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Agro TV BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Alfa TV
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13169?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Alfa TV
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/687?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Alfa TV BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Animal Planet BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7053?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Auto Motor und Sport BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7052?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",B Tv Comedy
+http://185.71.64.37:80/WFyjUdWYGx/FFCrO6Q0si/66750?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",B1B ACTION
+http://etya-plus.com:8080/ertan07/ertan0707/4054?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BALKANIKA MUSIC TV FHD
+http://ata.mobytech.eu:8080/gokselv4/01082020/182406?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Music",BG Music Channel BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7047?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Music",BG Music Channel FHD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BIT FHD
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/652?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BIT FHD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7029?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BLOOMBERG
+http://etya-plus.com:8080/ertan07/ertan0707/4052?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BLOOMBERG FHD
+http://ata.mobytech.eu:8080/gokselv4/01082020/182409?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 1 BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7043?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 1 FHD
+http://nova.iptvpromotions.com:25461/test/test/13191?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 1 HD
+http://mediaiptv.tv:80/Bunjamin:Buni:USA/ych5NiwMSW/513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 1 HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2185?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 2
+http://etya-plus.com:8080/ertan07/ertan0707/4051?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 2 BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2183?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 2 FHD
+http://linkme.team:80/js/js/299217?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 2 HD
+http://mediaiptv.tv:80/Bunjamin:Buni:USA/ych5NiwMSW/512?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 3 HD
+http://etya-plus.com:8080/ertan07/ertan0707/4050?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 3 HD
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13193?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 3 HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2186?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 4
+http://etya-plus.com:8080/ertan07/ertan0707/4049?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 4 FHD
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13194?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 4 HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7027?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT1
+http://etya-plus.com:8080/ertan07/ertan0707/4048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BOX TV
+http://etya-plus.com:8080/ertan07/ertan0707/4047?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="Undefined",BTK
+http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV
+http://etya-plus.com:8080/ertan07/ertan0707/4046?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV ACTION
+http://etya-plus.com:8080/ertan07/ertan0707/4045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV Action
+http://mediaiptv.tv:80/Bunjamin:Buni:USA/ych5NiwMSW/510?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV BG
+http://mediaiptv.tv:80/Bunjamin:Buni:USA/ych5NiwMSW/511?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV COMEDY FHD
+http://ata.mobytech.eu:8080/gokselv4/01082020/182388?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV Comedy
+http://mediaiptv.tv:80/Bunjamin:Buni:USA/ych5NiwMSW/508?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV LADY
+http://etya-plus.com:8080/ertan07/ertan0707/4042?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BTV LADY FHD
+http://ata.mobytech.eu:8080/gokselv4/01082020/182389?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Baby TV BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7050?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Balkanika BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Balkanika FHD
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/691?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Balkanika FHD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7049?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Music",Balkanika Music TV
+rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Music",Balkanika Music TV HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/83517?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BiT BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7028?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bloomberg TV FHD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7042?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Box TV BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7040?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Box TV FHD
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13196?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Box TV FHD
+http://linkme.team:80/js/js/299221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Box TV FHD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bulgaria 24
+http://mediaiptv.tv:80/Bunjamin:Buni:USA/ych5NiwMSW/504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bulgaria 24 BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bulgaria ON AIR
+http://etya-plus.com:8080/ertan07/ertan0707/4041?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="News",Bulgaria On Air
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="News",Bulgaria On Air
+http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="News",Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bulgaria On Air BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bulgaria On Air HD
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13204?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://ata.mobytech.eu:8080/gokselv4/01082020/182415?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CBS Reality HD
+http://nova.iptvpromotions.com:25461/test/test/13209?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CINEMA PLUS
+http://etya-plus.com:8080/ertan07/ertan0707/4039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CINEMAX 2
+http://etya-plus.com:8080/ertan07/ertan0707/4037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CINEMAX 2 FHD
+http://ata.mobytech.eu:8080/gokselv4/01082020/182419?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",COMEDY PLUS
+http://etya-plus.com:8080/ertan07/ertan0707/4036?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cartoon Network BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7035?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cherno More BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7034?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CineMax 2 FHD
+http://nova.iptvpromotions.com:25461/test/test/13213?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinema Plus
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/677?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinema Plus
+http://185.71.64.37:80/WFyjUdWYGx/FFCrO6Q0si/66756?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinema Plus BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2178?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinemax 1 HD
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/678?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinemax 1 HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2174?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinemax 2 HD
+http://restream.tivivo.cc:25461/T6IoMyJMpP/Z7GUrEbvbo/679?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinemax 2 HD BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/2175?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cinemax FHD
+http://nova.iptvpromotions.com:25461/albmicranda/albmicranda2030/13214?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",City TV BG
+http://restream.geniptv.com:8080/live:ackoace_new1/jhnb090bjhgnghd/7065?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",City TV BG
+http://mediaiptv.tv:80/Bunjamin:Buni:USA/ych5NiwMSW/500?checkedby:iptvcat.com
