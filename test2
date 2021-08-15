@@ -1,99 +1,135 @@
 #EXTM3U
-#EXTINF:-1,24 Kitchen
-https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
-#EXTINF:-1,AMC
-https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
-#EXTINF:-1,BG Music
-https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
-#EXTINF:-1,BOX TV
-https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
-#EXTINF:-1,BTK
-http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
-#EXTINF:-1,BTV Cinema
-https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
-#EXTINF:-1,BTV Comedy
-https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
-#EXTINF:-1,Balkanika Music TV
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1,Bn Music
-https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
-#EXTINF:-1,Bulgaria On Air
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1,Bulgaria On Air
-http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
-#EXTINF:-1,Bulgaria On Air
-http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1,Bulgaria On Air
-https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
-#EXTINF:-1,CITY TV
-https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
-#EXTINF:-1,DIEMA
-https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
-#EXTINF:-1,DM SAT
-https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
-#EXTINF:-1,Discovery
-https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u8
-#EXTINF:-1,EKIDS
-https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
-#EXTINF:-1,ETA
-https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
-#EXTINF:-1,Eurosport 1
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-#EXTINF:-1,Eurosport 2
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF:-1,FEN TV
-https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
-#EXTINF:-1,FOX
-https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
-#EXTINF:-1,FOX Crime
-https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
-#EXTINF:-1,FOX Life
-https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
-#EXTINF:-1,Fishing & Hunting Channel
-https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8
-#EXTINF:-1,History
-https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
-#EXTINF:-1,KINO NOVA
-https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
-#EXTINF:-1,NG WILD
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1,National Geographic
-https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
-#EXTINF:-1,Nick Jr.
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1,RETRO rtm
-rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
-#EXTINF:-1,RTL
-https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
-#EXTINF:-1,Ring BG
-https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
-#EXTINF:-1,THE Voice
-https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
-#EXTINF:-1,TLC
-https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
-#EXTINF:-1,This is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-#EXTINF:-1,This is Bulgaria
-http://31.13.223.104:1935/travel/community.stream/chunklist_w1878567751.m3u8
-#EXTINF:-1,This is Bulgaria
-http://bit.ly/2CvoeKz
-#EXTINF:-1,Travel
-https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1,Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1,КАНАЛ 3
-https://cdn1.mobiletv.bg/T3/kanal3/kanal3_794613_850k.m3u8
-#EXTINF:-1,Канал 4
-https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
-#EXTINF:-1,Первый канал
-https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:-1,Планета
-https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
-#EXTINF:-1,СКАТ
-https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
-#EXTINF:-1,ТВ Европа
-https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
-#EXTINF:-1,Телевизия Враца
-https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
-#EXTINF:-1,Фолклор ТВ
-https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
+#EXTINF:-1,BG: bTV
+http://e2.iudtv.org:8080/live/thankyou/123/3353.m3u8
+#EXTINF:-1,BG: bTV HD
+http://e2.iudtv.org:8080/live/thankyou/123/3422.m3u8
+#EXTINF:-1,BG: bTV Action
+http://e2.iudtv.org:8080/live/thankyou/123/3354.m3u8
+#EXTINF:-1,BG: bTV Action HD
+http://e2.iudtv.org:8080/live/thankyou/123/3421.m3u8
+#EXTINF:-1,BG: bTV Cinema
+http://e2.iudtv.org:8080/live/thankyou/123/3355.m3u8
+#EXTINF:-1,BG: bTV Comedy
+http://e2.iudtv.org:8080/live/thankyou/123/3356.m3u8
+#EXTINF:-1,BG: bTV Lady
+http://e2.iudtv.org:8080/live/thankyou/123/3357.m3u8
+#EXTINF:-1,BG: Cinemax SD
+http://e2.iudtv.org:8080/live/thankyou/123/3423.m3u8
+#EXTINF:-1,BG: Cinemax HD
+http://e2.iudtv.org:8080/live/thankyou/123/3398.m3u8
+#EXTINF:-1,BG: Cinemax 2
+http://e2.iudtv.org:8080/live/thankyou/123/3415.m3u8
+#EXTINF:-1,BG: Action Plus
+http://e2.iudtv.org:8080/live/thankyou/123/3352.m3u8
+#EXTINF:-1,BG: Cinema Plus
+http://e2.iudtv.org:8080/live/thankyou/123/3358.m3u8
+#EXTINF:-1,BG: Comedy Plus
+http://e2.iudtv.org:8080/live/thankyou/123/3359.m3u8
+#EXTINF:-1,BG: Film+
+http://e2.iudtv.org:8080/live/thankyou/123/3365.m3u8
+#EXTINF:-1,BG: Filmbox Extra
+http://e2.iudtv.org:8080/live/thankyou/123/3366.m3u8
+#EXTINF:-1,BG: Filmbox Premium
+http://e2.iudtv.org:8080/live/thankyou/123/3401.m3u8
+#EXTINF:-1,BG: Golf Sport HD
+http://e2.iudtv.org:8080/live/thankyou/123/3393.m3u8
+#EXTINF:-1,BG: HBO HD
+http://e2.iudtv.org:8080/live/thankyou/123/3387.m3u8
+#EXTINF:-1,BG: HBO 2 HD
+http://e2.iudtv.org:8080/live/thankyou/123/3388.m3u8
+#EXTINF:-1,BG: HBO 3 HD
+http://e2.iudtv.org:8080/live/thankyou/123/3389.m3u8
+#EXTINF:-1,BG: Fox
+http://e2.iudtv.org:8080/live/thankyou/123/3417.m3u8
+#EXTINF:-1,BG: Fox Crime
+http://e2.iudtv.org:8080/live/thankyou/123/3416.m3u8
+#EXTINF:-1,BG: Fox Life
+http://e2.iudtv.org:8080/live/thankyou/123/3420.m3u8
+#EXTINF:-1,BG: AMC
+http://e2.iudtv.org:8080/live/thankyou/123/3400.m3u8
+#EXTINF:-1,BG: AXN
+http://e2.iudtv.org:8080/live/thankyou/123/3399.m3u8
+#EXTINF:-1,BG: Baby TV
+http://e2.iudtv.org:8080/live/thankyou/123/3392.m3u8
+#EXTINF:-1,BG: BIT
+http://e2.iudtv.org:8080/live/thankyou/123/3377.m3u8
+#EXTINF:-1,BG: Movie Star
+http://e2.iudtv.org:8080/live/thankyou/123/3384.m3u8
+#EXTINF:-1,BG: Balkanika Music
+http://e2.iudtv.org:8080/live/thankyou/123/3391.m3u8
+#EXTINF:-1,BG: Cartoon Network
+http://e2.iudtv.org:8080/live/thankyou/123/3382.m3u8
+#EXTINF:-1,BG: Alfa TV
+http://e2.iudtv.org:8080/live/thankyou/123/3395.m3u8
+#EXTINF:-1,BG: Diema Family
+http://e2.iudtv.org:8080/live/thankyou/123/3360.m3u8
+#EXTINF:-1,BG: Diema Sport 1
+http://e2.iudtv.org:8080/live/thankyou/123/3362.m3u8
+#EXTINF:-1,BG: Diema Sport 2
+http://e2.iudtv.org:8080/live/thankyou/123/3363.m3u8
+#EXTINF:-1,BG: Diema TV
+http://e2.iudtv.org:8080/live/thankyou/123/3361.m3u8
+#EXTINF:-1,BG: F+ Sport
+http://e2.iudtv.org:8080/live/thankyou/123/3364.m3u8
+#EXTINF:-1,BG: Mtel Sport 1
+http://e2.iudtv.org:8080/live/thankyou/123/3404.m3u8
+#EXTINF:-1,BG: Mtel Sport 2
+http://e2.iudtv.org:8080/live/thankyou/123/3405.m3u8
+#EXTINF:-1,BG: Sport Plus HD
+http://e2.iudtv.org:8080/live/thankyou/123/3411.m3u8
+#EXTINF:-1,BG: Eurosport 1
+http://e2.iudtv.org:8080/live/thankyou/123/3418.m3u8
+#EXTINF:-1,BG: Eurosport 2
+http://e2.iudtv.org:8080/live/thankyou/123/3419.m3u8
+#EXTINF:-1,BG: Nova Sport 2
+http://e2.iudtv.org:8080/live/thankyou/123/3403.m3u8
+#EXTINF:-1,BG: Nova Sport
+http://e2.iudtv.org:8080/live/thankyou/123/3368.m3u8
+#EXTINF:-1,BG: Nova TV
+http://e2.iudtv.org:8080/live/thankyou/123/3367.m3u8
+#EXTINF:-1,BG: Kino Nova
+http://e2.iudtv.org:8080/live/thankyou/123/3375.m3u8
+#EXTINF:-1,BG: Discovery
+http://e2.iudtv.org:8080/live/thankyou/123/3397.m3u8
+#EXTINF:-1,BG: National Geographic
+http://e2.iudtv.org:8080/live/thankyou/123/3413.m3u8
+#EXTINF:-1,BG: Nat Geo Wild
+http://e2.iudtv.org:8080/live/thankyou/123/3373.m3u8
+#EXTINF:-1,BG: Animal Planet
+http://e2.iudtv.org:8080/live/thankyou/123/3414.m3u8
+#EXTINF:-1,BG: Planeta
+http://e2.iudtv.org:8080/live/thankyou/123/3369.m3u8
+#EXTINF:-1,BG: BNT 1 HD
+http://e2.iudtv.org:8080/live/thankyou/123/3409.m3u8
+#EXTINF:-1,BG: BNT 2 HD
+http://e2.iudtv.org:8080/live/thankyou/123/3394.m3u8
+#EXTINF:-1,BG: Kanal 3
+http://e2.iudtv.org:8080/live/thankyou/123/3376.m3u8
+#EXTINF:-1,BG: IDXtra HD
+http://e2.iudtv.org:8080/live/thankyou/123/3410.m3u8
+#EXTINF:-1,BG: The Voice
+http://e2.iudtv.org:8080/live/thankyou/123/3408.m3u8
+#EXTINF:-1,BG: Fen TV
+http://e2.iudtv.org:8080/live/thankyou/123/3380.m3u8
+#EXTINF:-1,BG: Hobby Lov
+http://e2.iudtv.org:8080/live/thankyou/123/3379.m3u8
+#EXTINF:-1,BG: Hobby TV
+http://e2.iudtv.org:8080/live/thankyou/123/3378.m3u8
+#EXTINF:-1,BG: BoxTV
+http://e2.iudtv.org:8080/live/thankyou/123/3412.m3u8
+#EXTINF:-1,BG: Music
+http://e2.iudtv.org:8080/live/thankyou/123/3390.m3u8
+#EXTINF:-1,BG: DSTV
+http://e2.iudtv.org:8080/live/thankyou/123/3381.m3u8
+#EXTINF:-1,BG: Magic TV
+http://e2.iudtv.org:8080/live/thankyou/123/3374.m3u8
+#EXTINF:-1,BG: Minimax
+http://e2.iudtv.org:8080/live/thankyou/123/3402.m3u8
+#EXTINF:-1,BG: Ring TV
+http://e2.iudtv.org:8080/live/thankyou/123/3370.m3u8
+#EXTINF:-1,BG: VT+
+http://e2.iudtv.org:8080/live/thankyou/123/3371.m3u8
+#EXTINF:-1,BG: БНТ
+http://e2.iudtv.org:8080/live/thankyou/123/3385.m3u8
+#EXTINF:-1,BG: БНТ 1
+http://e2.iudtv.org:8080/live/thankyou/123/3386.m3u8
