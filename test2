@@ -207,6 +207,12 @@ https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
 #EXTINF:-1,DM SAT
 https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
+ #EXTINF:-1,Nova TV
+http://62.176.99.49:5555/udp/225.100.100.9:30000
+ #EXTINF:-1,HBO, HP
+http://62.176.99.49:5555/udp/225.100.100.37:30000
+ #EXTINF:-1,Pink Plus
+http://62.176.99.49:5555/udp/225.100.100.123:30000
 
 
 
